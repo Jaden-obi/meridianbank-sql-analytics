@@ -5,8 +5,8 @@ This project uses a simulated retail banking database to practice and demonstrat
 ## Project Files
 
 - `meridianbank_sql_project.sql` - Full SQL script with schema, sample data, and analysis queries.
-- `docs/Jaden_SQL_Project_Recruiter_Formatted_With_Insights.docx` - Recruiter-friendly portfolio document with business explanations, SQL comments, and insights.
-- `docs/Jaden_SQL_Project_Recruiter_Formatted_With_Insights.pdf` - PDF version for easy viewing.
+- `docs/Jaden_SQL_Project_With_Insights.docx` - Recruiter-friendly portfolio document with business explanations, SQL comments, and insights.
+- `docs/Jaden_SQL_Project_With_Insights.pdf` - PDF version for easy viewing.
 
 ## Skills Demonstrated
 
